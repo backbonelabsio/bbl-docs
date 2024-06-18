@@ -15,7 +15,7 @@
     * [Galactic Syndicate](products/gravedigger-nft-communities/galactic-syndicate.md)
     * [BadDogs vs ASH Bone](products/gravedigger-nft-communities/baddogs-vs-ash-bone.md)
   * [Necropolis Marketplace](products/necropolis-marketplace/README.md)
-    * [Counter Biding](products/necropolis-marketplace/counter-biding.md)
+    * [Counter Offers](products/necropolis-marketplace/counter-biding.md)
     * [Auto LST Deposits](products/necropolis-marketplace/auto-lst-deposits.md)
   * [Necromancer Launchpad](products/necromancer-launchpad.md)
   * [The Crypt](products/the-crypt.md)
