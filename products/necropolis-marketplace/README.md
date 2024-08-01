@@ -10,7 +10,7 @@ An NFT marketplace platform for buying, selling and trading NFTs (non-fungible t
 
 ### **The Role of bASSETs**
 
-Necropolis operates with the [GraveDiggers](../gravedigger-lsts/) bASSETs at its heart. By integrating bASSETs, Necropolis allows users to maximize their capital, earning yield while participating in NFT transactions. This dual functionality—trading NFTs and generating yield—sets Necropolis apart from traditional NFT marketplaces.
+Necropolis operates with the [GraveDiggers](../bbl-assets/gravedigger-lsts/) bASSETs at its heart. By integrating bASSETs, Necropolis allows users to maximize their capital, earning yield while participating in NFT transactions. This dual functionality—trading NFTs and generating yield—sets Necropolis apart from traditional NFT marketplaces.
 
 ### **The Heart of Necropolis: The GraveDigger**
 
