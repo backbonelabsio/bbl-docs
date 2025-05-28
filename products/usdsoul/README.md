@@ -10,7 +10,7 @@ More often than not DeFi is a soulless endeavour. Funded by VCs and designed to 
 
 Traditionally, liquidity has been under the control of a select group of people (VCs), with profits siphoned away from the community and funnelled into their own pockets. Meanwhile, outsiders, community members, and retail investors are scrambling at the behest of these VCs. We at BackBone Labs and our uniting community seek to rectify this by establishing self-sustaining systems and ensuring ongoing incentives for LST liquidity pairs providing users with a sustainable source of yield for their liquidity positions. This initiative integrates NFTs and innovative staking token mechanisms to foster sustainability and fairness.
 
-Unlike inflationary tokens, $SOUL is designed to be a reliable store of value. It maintains its worth over time and insures a diverse yield mechanism via the [GraveDiggers](../bbl-assets/gravedigger-lsts/) across the Cosmos, ensuring that holders can trust in the long-term stability and viability of their investments. This non-inflationary nature makes $SOUL a cornerstone for sustainable economic growth within the ecosystem.
+Unlike inflationary tokens, $SOUL is designed to be a reliable store of value. It maintains its worth over time and insures a diverse yield mechanism via the [GraveDiggers](../bassets-and-minting-tokens/gravedigger-lsts/) across the Cosmos, ensuring that holders can trust in the long-term stability and viability of their investments. This non-inflationary nature makes $SOUL a cornerstone for sustainable economic growth within the ecosystem.
 
 $SOUL is more than just a token; it's a transformative force within the NFT and DeFi landscapes. By addressing liquidity issues, providing real yield, and fostering community engagement, $SOUL ensures a fairer, more sustainable, and more inclusive financial ecosystem. Join BackBone Labs in revolutionizing the way we interact with digital assets and creating a future where everyone can benefit from the growth and innovation in the NFT and DeFi spaces.\\
 
@@ -18,12 +18,14 @@ $SOUL is more than just a token; it's a transformative force within the NFT and 
 
 ## Tokenomics
 
-* **Max Supply:** 10,000,000
-* **Claim Drop:** 50%
-* **SOUL Foundation:** 15%
-* **Team Allocation:** 15%
-* **SAIL Chains:** 10%
-* **Liquidity:** 10%
+* **Max Supply:** 21,000,000
+* **BackBone Labs Community:** 26.2%
+* **$WHALE holder allocation:** 47.6%
+* **SOUL Foundation:** 7.9%
+* **Team Allocation:** 7.9%
+* **Liquidity (PoL):** 5.2%
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Value Accrual
 
@@ -34,8 +36,8 @@ $SOUL token stakers will receive a portion of the revenue of all the liquid stak
 
 With the $SOUL token receiving 40% of the Revenue from each GraveDigger the rewards will be diversified across multiple Cosmos chains with no single point of failure. $SOUL stakers will have a continuous and sustainable yield.
 
-## $SOUL token Litepaper
+<div data-full-width="false"><figure><img src="../../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
-Airdrop is also discussed in the Medium Article.
+## Further $SOUL token Info
 
-{% embed url="https://medium.com/@backbone_labs/soul-for-the-people-a478139ee0fa#e51e" %}
+{% embed url="https://medium.com/@backbone_labs/soul-token-5148507358f3" %}

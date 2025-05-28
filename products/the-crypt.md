@@ -6,13 +6,13 @@ description: Democratising NFT communities through DAO creation.
 
 ### What is the Crypt?
 
-The Crypt is an NFT staking product powered by [Enterprise Dao](https://www.enterprise.money/). NFT staking allows holders to earn rewards on their assets without sacrificing ownership. Backbone Labs has chosen Enterprise DAO as their DAO tooling to ensure the platform's security, reliability, and scalability. With Enterprise's advanced technology, expertise and rapid development, users can trust that The Crypt is a secure and robust platform that can handle high traffic volumes and provide an exceptional user experience. NFT stakers can also create proposals and control the DAO treasury through governance. This can potentially be used to grow treasuries by employing DeFi strategies all governed in a decentralised manner by NFT stakers.
+The Crypt is an NFT staking product powered by [DAO DAO](https://daodao.zone/). NFT staking allows holders to earn rewards on their assets without sacrificing ownership. Backbone Labs have chosen DAO DAO as their DAO tooling to ensure the platform's security, reliability, and scalability. With DAO DAO's advanced technology, expertise and rapid development, users can trust that The Crypt is a secure and robust platform that can handle high traffic volumes and provide an exceptional user experience. NFT stakers can also create proposals and control the DAO treasury through governance. This can potentially be used to grow treasuries by employing DeFi strategies all governed in a decentralised manner by NFT stakers.
 
 ### Why is it important?
 
 The rise of NFTs has given birth to a new type of community-driven model which is gaining traction in the blockchain space. NFT communities are seen by many as a more effective alternative to the traditional governance token model, which has been the norm in the DeFi industry, until now.
 
-Founding DAOs using NFTs is a step towards unlocking the next stages of NFTfi. DAO tooling such as enterprise allows communities to take control of projects they love through decentralised DAO governance.&#x20;
+Founding DAOs using NFTs is a step towards unlocking the next stages of NFTfi. DAO tooling such as DAO DAO allows communities to take control of projects they love through decentralised DAO governance.
 
 One of the main reasons for this is that NFT communities allow for a more inclusive and engaged ecosystem. Unlike governance tokens, which typically only offer voting rights without anything else, NFT communities are more vibrant and bring excitement to the space.
 

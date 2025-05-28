@@ -2,7 +2,7 @@
 
 ### Who are BackBone Labs?
 
-We are a collection of DeFi and NFT enthusiasts dedicated to providing useful, unique and innovative DeFi solutions to Cosmo chains and their communities. BackBone Labs were born from the fires of the Terra collapse and still building to unite communities and enhance the decentralised economy.\
+We are a collection of DeFi and NFT enthusiasts dedicated to providing useful, unique and innovative DeFi solutions to Cosmos chains and their communities. BackBone Labs were born from the fires of the Terra collapse and still building to unite communities and enhance the decentralised economy.\
 Our team is founded upon the skills of our experienced team with years of industry experience. From validating the biggest Cosmos chains, launching LST derivatives across Cosmos and developing some of the most successful NFT projects in Cosmos history our team has ample experience, connections and strategic partnerships to navigate any challenges.
 
 ### Our Mission
@@ -11,7 +11,7 @@ At Backbone Labs, our mission is to increase capital efficiency in the NFT ecosy
 
 We are more than just a team building dApps; we are a rebellion and a community-driven force transforming the dynamics of NFTFi. Our approach ensures that fees are redistributed within the community, fostering a stronger and more united network.
 
-It's our commitment to community involvement and the collective power we harness sets us a part from other NFT and LST platforms. By joining us on this mission, you become part of a movement that is changing the game. Together, we are stronger, and together, we are redefining the future of art and finance.
+It's our commitment to community involvement and the collective power we harness sets us apart from other NFT and LST platforms. By joining us on this mission, you become part of a movement that is changing the game. Together, we are stronger, and together, we are redefining the future of art and finance.
 
 ### Our History
 
